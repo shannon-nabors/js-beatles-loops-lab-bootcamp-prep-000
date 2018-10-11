@@ -28,3 +28,5 @@ const facts = [
     }
     console.log(sameFactsButMoreExciting);
   }
+  
+  johnLennonFacts(facts);

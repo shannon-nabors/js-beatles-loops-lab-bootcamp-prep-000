@@ -14,7 +14,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 const facts = [
   "His middle name was Winston",
-  "His dad was the mascot for his school's soccer team",
+  "His dad was the mascot for his school soccer team",
   "He was introduced to LSD when a dentist spiked his coffee at a dinner party"
   ];
   

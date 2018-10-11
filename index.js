@@ -31,7 +31,7 @@ function johnLennonFacts(facts) {
 
 var loveCounter = 3;
 
-function iLoveTheBeatles(initialLoveAmount) {
+function iLoveTheBeatles(loveCounter) {
   var beatlesFanaticism = [];
   do {
     beatlesFanaticism.push("I love the Beatles!");

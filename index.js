@@ -14,7 +14,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 var factsAboutJohnLennon = [
   "His middle name was Winston",
-  'He published a magazine at his school called "The Daily Howl"'
-  ''
+  'He published a magazine at his school called "The Daily Howl"',
+  'He was introduced to LSD when a dentist spiked his coffee at a dinner party'
   ]
 }

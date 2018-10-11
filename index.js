@@ -29,6 +29,8 @@ function johnLennonFacts(facts) {
   return(sameFactsButMoreExciting);
 }
 
+johnLennonFacts(facts);
+
 var loveCounter = 3;
 
 function iLoveTheBeatles(loveCounter) {

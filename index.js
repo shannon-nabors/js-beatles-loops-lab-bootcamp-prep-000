@@ -9,7 +9,7 @@ function theBeatlesPlay(musicians, instruments) {
     var instrumentStatement = (musicians[i] + " plays " + instruments[i] + ".");
     musiciansPlayingInstruments.push(instrumentStatement);
   }
-  console.log(musiciansPlayingInstruments);
+  return(musiciansPlayingInstruments);
 }
 
 theBeatlesPlay(musicians, instruments);

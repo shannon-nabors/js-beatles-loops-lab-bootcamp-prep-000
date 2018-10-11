@@ -22,4 +22,5 @@ const facts = [
   
   function johnLennonFacts(facts) {
     let counter = 0;
+    while 
   }

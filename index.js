@@ -13,6 +13,7 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 var factsAboutJohnLennon = [
+  "His middle name was Winston",
   ""
   ]
 }

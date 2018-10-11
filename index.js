@@ -23,6 +23,8 @@ const facts = [
   function johnLennonFacts(facts) {
     let counter = 0;
     while (counter < facts.length) {
-      
+      sameFactsButMoreExciting.push(facts[counter] + "!!!");
+      counter++;
     }
+    console.log(sameFactsButMoreExciting);
   }

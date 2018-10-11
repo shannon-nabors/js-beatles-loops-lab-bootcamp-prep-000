@@ -21,5 +21,5 @@ const facts = [
   var sameFactsButMoreExciting = [];
   
   function johnLennonFacts(facts) {
-    
+    let counter = 0;
   }

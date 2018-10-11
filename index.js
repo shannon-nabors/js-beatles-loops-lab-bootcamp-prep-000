@@ -13,9 +13,13 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 const facts = [
-  "His middle name was Winston",
+  /*"His middle name was Winston",
   "His dad was the mascot for his school soccer team",
-  "He was introduced to LSD when a dentist spiked his coffee at a dinner party"
+  "He was introduced to LSD when a dentist spiked his coffee at a dinner party"*/
+  "He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
+  "He was a choir boy and boy scout",
+  "He hated the sound of his own voice"
   ];
   
 var sameFactsButMoreExciting = [];

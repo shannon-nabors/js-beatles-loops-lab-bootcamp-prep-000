@@ -12,4 +12,7 @@ function theBeatlesPlay(musicians, instruments) {
   return(musiciansPlayingInstruments);
 }
 
-theBeatlesPlay(musicians, instruments);
+var factsAboutJohnLennon = [
+  ""
+  ]
+}

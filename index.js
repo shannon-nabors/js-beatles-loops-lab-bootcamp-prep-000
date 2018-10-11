@@ -17,3 +17,7 @@ const facts = [
   'He published a magazine at his school called "The Daily Howl"',
   "He was introduced to LSD when a dentist spiked his coffee at a dinner party"
   ];
+  
+  function johnLennonFacts(facts) {
+    
+  }

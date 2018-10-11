@@ -9,3 +9,5 @@ function theBeatlesPlay(musicians, instruments) {
     console.log(musicians[i] + " plays " + instruments[i]);
   }
 }
+
+theBeatlesPlay(musicians, instruments);

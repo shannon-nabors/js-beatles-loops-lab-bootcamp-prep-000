@@ -18,8 +18,6 @@ const facts = [
   "He was introduced to LSD when a dentist spiked his coffee at a dinner party"
   ];
   
-var sameFactsButMoreExciting = [];
-  
 function johnLennonFacts(facts) {
   let factCounter = 0;
   while (factCounter < facts.length) {

@@ -37,5 +37,5 @@ function iLoveTheBeatles(loveCounter) {
     beatlesFanaticism.push("I love the Beatles!");
     loveCounter++;
   } while (loveCounter < 15);
-  return(beatlesFanaticism);
+  console.log(beatlesFanaticism);
 }

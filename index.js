@@ -29,13 +29,11 @@ function johnLennonFacts(facts) {
   return(sameFactsButMoreExciting);
 }
 
-var initialLoveAmount = 3;
+var loveCounter = 3;
 
 function iLoveTheBeatles(initialLoveAmount) {
   var beatlesFanaticism = [];
   do {
     beatlesFanaticism.push("I love the Beatles!");
-  } while {
-    
-  }
+  } while ();
 }

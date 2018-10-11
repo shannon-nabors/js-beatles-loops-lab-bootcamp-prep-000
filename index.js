@@ -12,9 +12,8 @@ function theBeatlesPlay(musicians, instruments) {
   return(musiciansPlayingInstruments);
 }
 
-var factsAboutJohnLennon = [
+const factsAboutJohnLennon = [
   "His middle name was Winston",
   'He published a magazine at his school called "The Daily Howl"',
-  'He was introduced to LSD when a dentist spiked his coffee at a dinner party'
-  ]
-}
+  "He was introduced to LSD when a dentist spiked his coffee at a dinner party"
+  ];

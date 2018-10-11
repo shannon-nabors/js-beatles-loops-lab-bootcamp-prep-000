@@ -26,7 +26,7 @@ function johnLennonFacts(facts) {
     sameFactsButMoreExciting.push(facts[factCounter] + "!!!");
     factCounter++;
   }
-  console.log(sameFactsButMoreExciting);
+  return(sameFactsButMoreExciting);
 }
 
 johnLennonFacts(facts);

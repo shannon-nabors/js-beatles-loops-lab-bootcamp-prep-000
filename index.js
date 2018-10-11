@@ -39,3 +39,5 @@ function iLoveTheBeatles(loveCounter) {
   } while (loveCounter < 15);
   console.log(beatlesFanaticism);
 }
+
+iLoveTheBeatles(loveCounter);

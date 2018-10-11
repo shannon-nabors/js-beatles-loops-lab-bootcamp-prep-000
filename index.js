@@ -36,5 +36,5 @@ function iLoveTheBeatles(loveCounter) {
   do {
     beatlesFanaticism.push("I love the Beatles!");
     loveCounter++;
-  } while ();
+  } while (loveCounter < 15);
 }

@@ -21,10 +21,10 @@ const facts = [
 var sameFactsButMoreExciting = [];
   
 function johnLennonFacts(facts) {
-  let counter = 0;
-  while (counter < facts.length) {
-    sameFactsButMoreExciting.push(facts[counter] + "!!!");
-    counter++;
+  let factCounter = 0;
+  while (factCounter < facts.length) {
+    sameFactsButMoreExciting.push(facts[factCounter] + "!!!");
+    factCounter++;
   }
   return(sameFactsButMoreExciting);
 }
@@ -35,5 +35,6 @@ function iLoveTheBeatles(loveCounter) {
   var beatlesFanaticism = [];
   do {
     beatlesFanaticism.push("I love the Beatles!");
+    loveCounter++;
   } while ();
 }
